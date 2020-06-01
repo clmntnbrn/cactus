@@ -8,8 +8,7 @@ body {
   background-color: #f2e9e4;
   border: 12px solid #02c39a;}
 
-.border-cactus {
-  /* border-bottom: 2px solid rgba(2, 128, 144, 0.5); */
+.hr {
   border-bottom: 2px solid rgba(2, 195, 154, 0.3);
 }
 
@@ -601,7 +600,7 @@ h1, h2, h3, h4, h5,
         color: #fff;
         position: relative; }
         .sticky-wrapper .site-navbar .site-menu > li > a.active:after {
-          height: 4px;
+          height: 2px;
           background: #fff;
           content: "";
           position: absolute;
