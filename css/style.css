@@ -332,7 +332,8 @@ h1, h2, h3, h4, h5,
   font-weight: 900;
   font-size: 1.3rem; }
   .site-logo a {
-    color: #fff; }
+    color: #fff;
+    font-weight: 900; }
 
 .site-navbar {
   margin-bottom: 0px;
