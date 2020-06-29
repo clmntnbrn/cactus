@@ -669,8 +669,9 @@ h1, h2, h3, h4, h5,
     color: #f3f3f4;
     font-size: 1.5rem;
     font-weight: 700;
-    margin-bottom: 1.5rem;;
+    margin-bottom: 1.5rem;
   }
+ 
 
 .img-absolute {
   position: absolute;
