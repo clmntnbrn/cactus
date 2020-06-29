@@ -119,10 +119,11 @@ h1, h2, h3, h4, h5,
       background-color: transparent; }
     .btn.btn-black.btn-outline-black {
       color: #fff;
-      background-color: #028090; }
+      border-color: #007bff;
+      background-color: #007bff; }
       .btn.btn-black.btn-outline-black:hover {
-        border-color: #02c39a;
-        background: #02c39a;
+        border-color: #EC5050;
+        background: #EC5050;
         color: #fff; }
   .btn.btn-white {
     border-width: 2px;
@@ -706,7 +707,7 @@ h1, h2, h3, h4, h5,
     color: #fff; }
 
 .section-sub-title {
-  color: #000;
+  color: #028090;
   text-transform: uppercase;
   font-size: 1rem;
   font-weight: 900;
@@ -715,7 +716,7 @@ h1, h2, h3, h4, h5,
   margin-bottom: 0.8rem; }
 
   .section-optional-title {
-    color: rgb(58, 58, 58);
+    color: #028090;
     font-size: 1rem;
     font-weight: 600;
     display: block;
@@ -724,11 +725,11 @@ h1, h2, h3, h4, h5,
 
 
   .section-price {
-    color: #007bff;
+    color: #028090;
     font-size: 1.3rem;
     font-weight: 900;
     display: block;
-    margin-bottom: 1.5rem; }
+    margin-bottom: 0.7rem; }
 
 .section-title {
   font-size: 3rem;
