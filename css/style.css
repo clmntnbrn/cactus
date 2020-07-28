@@ -740,6 +740,13 @@ h1, h2, h3, h4, h5,
     font-weight: 900;
     display: block;
     margin-bottom: 0.7rem; }
+  
+    .coming-soon-sub-title {
+      color: #007bff;
+      font-size: 1rem;
+      font-weight: 900;
+      display: block;
+      margin-bottom: 0.7rem; }
 
 .section-title {
   font-size: 3rem;
