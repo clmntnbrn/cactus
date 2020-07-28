@@ -734,6 +734,13 @@ h1, h2, h3, h4, h5,
     display: block;
     margin-bottom: 0.7rem; }
 
+  .coming-soon {
+    color: #007bff;
+    font-size: 1.3rem;
+    font-weight: 900;
+    display: block;
+    margin-bottom: 0.7rem; }
+
 .section-title {
   font-size: 3rem;
   color: #000;
