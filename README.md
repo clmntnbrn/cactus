@@ -1,2 +1,2 @@
-# clmntnbrn2019
-redesign of my website
+# Cactus Handshake
+Design career coaching website
